@@ -1,7 +1,6 @@
 # ExemplaryProject2  (Title of the project)
 # Authors 
 - Gabriela Czerniak
-- Joanna Doliwa
 # Description of the project 
 Text here... 
 # Science and tech used 
