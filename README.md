@@ -1,4 +1,4 @@
-# ExemplaryProject2  (Title of the project)
+# Cooling and heating device based on a Peltier cell
 # Authors 
 - Gabriela Czerniak
 # Description of the project 
