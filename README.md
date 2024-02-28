@@ -6,8 +6,8 @@ A device utilising the capabilities of a Peltier cell connected via the L298N. R
 # Science and tech used 
 Arduino Uno, DS18B20 1-Wire Temperature Sensor - Waterproof, L298N Motor Driver, LCD 16x2, rotary potentiometer 10kOhm, BreadBoard
 # State of the art 
-Text & plots here... 
+A device for laboratory use and beyond. Can be used as a mat when heat/cool distribution elements are added. 
 # What next?
-Text here... 
+Increasing the possibilities by adding buttons to change the target temperature, possible modifications by adding relays. 
 # Sources 
 - [Writing on GitHub] ( https://docs.github.com/en/get-started/writing-on-github ) 
