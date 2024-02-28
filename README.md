@@ -2,9 +2,9 @@
 # Authors 
 - Gabriela Czerniak
 # Description of the project 
-A device utilising the capabilities of a Peltier cell connected via the L298N. Receives ambient or solid body temperature information via a waterproof probe. Information about the temperature as well as the heating or cooling status are shown on the LCD display. 
+an Arduino-based module that records temperature via a waterproof probe, the information is presented on an LCD display. To control the temperature, a Peltier cell connected via a relay is switched on and off to control the temperature.
 # Science and tech used 
-Arduino Uno, DS18B20 1-Wire Temperature Sensor - Waterproof, L298N Motor Driver, LCD 16x2, rotary potentiometer 10kOhm, BreadBoard
+Arduino Uno, DS18B20 1-Wire Temperature Sensor - Waterproof, Iduino relay module - 1 channel - 10A/250VAC contacts - 5V coil, LCD 16x2, rotary potentiometer 10kOhm, BreadBoard
 # State of the art 
 A device for laboratory use and beyond. Can be used as a mat when heat/cool distribution elements are added. 
 # What next?
